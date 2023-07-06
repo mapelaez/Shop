@@ -1,0 +1,17 @@
+.col-img {
+    /* background: scroll center url('https://source.unsplash.com/-4kwrnRrk-E/800x800'); */
+    background: scroll center url('https://cdn.mos.cms.futurecdn.net/PES6US4DGQsJVRQmnqkzCZ.jpg');
+    background-size: cover;
+    min-height: 100vh;
+  }
+  
+  .btn {
+    border-radius: 5em;
+  }
+  .close-msg{
+  cursor: pointer;
+  font-size: 1.5em;
+  padding: 0;
+  margin: 0;
+  margin-bottom: -30px;
+}
